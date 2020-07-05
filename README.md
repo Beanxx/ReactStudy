@@ -1,2 +1,2 @@
 # ReactStudy
-모같코_React
+Re:)Coder_React
