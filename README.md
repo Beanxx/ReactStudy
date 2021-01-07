@@ -1,2 +1,3 @@
-# ReactStudy
-Re:)Coder_React
+### React Study
+
+:blue_book: '리액트를 다루는 기술' 책 실습
